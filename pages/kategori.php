@@ -21,7 +21,7 @@
 
     <!-- MAIN CONTENT START -->
     <section class="border border-gray-800 container mx-auto p-6 text center">
-        <h1 class="font-mono text-4xl">Kategori <?=$kategori?>  </h1>
+        <h1 class="font-mono text-4xl">Kategori <?= $kategori ?>  </h1>
           
 
     <!-- MAIN CONTENT END -->
